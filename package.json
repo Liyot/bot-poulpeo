@@ -1,0 +1,14 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Poulpeo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "jsdom": "^24.0.0"
+  }
+}
